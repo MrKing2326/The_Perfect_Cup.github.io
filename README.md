@@ -1,2 +1,2 @@
 # The_Perfect_Cup.github.io
-Members Only Blogging Website
+<p><i> Members Only Blogging Website </i></p>
